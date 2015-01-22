@@ -1,0 +1,6 @@
+= A 31c3 themed background pattern
+
+{{screenshot.jpg|Screenshot}}
+
+Background pattern for the 
+[[http://events.ccc.de/congress/2014/wiki/Static:Main_Page|31c3 conference in Hamburg]].
