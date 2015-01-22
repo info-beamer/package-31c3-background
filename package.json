@@ -1,5 +1,6 @@
 {
     "name": "Animated background pattern",
     "author": "fw@dividuum.de",
-    "desc": "Background pattern created for the 31c3 conference in Hamburg"
+    "desc": "Background pattern created for the 31c3 conference in Hamburg",
+    "repository": "https://github.com/info-beamer/package-31c3-background"
 }
